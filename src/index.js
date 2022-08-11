@@ -3,6 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './fonts/Poppins-Bold.ttf';
+import './fonts/Poppins-Regular.ttf';
+import './fonts/Poppins-Medium.ttf';
+import './fonts/Poppins-Light.ttf';
+import './fonts/Poppins-SemiBold.ttf';
+import './fonts/PlayfairDisplay-Bold.ttf';
+import './fonts/PlayfairDisplay-Medium.ttf';
+import './fonts/PlayfairDisplay-Regular.ttf';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
